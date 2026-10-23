@@ -1,1 +1,1 @@
-# .github
+# Здесь описан ReadMe для Tamus.
